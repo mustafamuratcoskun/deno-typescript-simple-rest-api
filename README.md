@@ -6,7 +6,7 @@
 deno run  --allow-net app.ts
 ```
 
-### Requests
+### Api Requests
 
 1. **GET /books** : Returns all the books
 2. **POST /books** : Adds a new book
