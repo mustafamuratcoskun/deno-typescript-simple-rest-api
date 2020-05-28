@@ -3,7 +3,7 @@
 ### Running the app
 
 ```
-deno run  --allow-net app.ts
+deno run  --allow-net server.ts
 ```
 
 ### Api Requests
