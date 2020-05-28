@@ -1,7 +1,10 @@
 ## Simple REST API using Deno, TypeScript and Oak Framework
 
-### Running the app
 
+### Running the app
+```
+git clone https://github.com/mustafamuratcoskun/deno-typescript-simple-rest-api.git
+```
 ```
 deno run  --allow-net server.ts
 ```
